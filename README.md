@@ -1,9 +1,9 @@
 # Keylogger
-Written by John Hippisley
+Written by John Hippisley, Windows only. 
 
-Windows only. Logs key strokes to specified file for specified time.
+Logs key strokes to specified file for specified time.
 
 ## Usage
 <pre>
-Usage: keylogger -f [path to file] -t [time in seconds]
+start keylogger.exe -f [path to file] -t [time in seconds]
 </pre>
